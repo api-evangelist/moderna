@@ -7,4 +7,9 @@ description: 'Profile for Moderna in the API Evangelist network. Fortune 500.'
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/modernatx
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/modernatx
 apis: []
