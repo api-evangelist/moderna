@@ -17,7 +17,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/moderna.pn
 description: 'Profile for Moderna in the API Evangelist network. Fortune 500.'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: GitHubOrganization
     url: https://github.com/modernatx
